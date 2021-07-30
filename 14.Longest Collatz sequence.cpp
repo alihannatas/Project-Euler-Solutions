@@ -36,7 +36,7 @@ int main(){
 	
 	long long a=0, uzunluk=0,uzunluk1=0, sayi=0;
 
-		for(int i=100000000;i>1;i--){
+		for(int i=1000000;i>1;i--){
 			
 			chain(i,a);
 		
